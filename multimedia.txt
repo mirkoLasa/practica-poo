@@ -1,0 +1,3 @@
+titulo: El Padrino, duracion/cantidad: 175
+titulo: El Túnel, duracion/cantidad: 172
+titulo: Preguntale al Polvo, duracion/cantidad: 187
